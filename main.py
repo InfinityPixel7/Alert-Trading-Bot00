@@ -54,4 +54,3 @@ def main():
 if __name__ == "__main__":
     main()
     
-send_telegram_alert("🟢 *TEST MESSAGE: Bot is working perfectly!*")
